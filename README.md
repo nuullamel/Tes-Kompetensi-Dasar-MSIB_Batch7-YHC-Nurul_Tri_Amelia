@@ -39,10 +39,10 @@ Repository harus di-*clone* ke folder dengan nama **MSIB**
 ![•	Laman list kursus yang ada](Picture4.png)<br>
 
 •	Laman edit kursus<br>
-![•	Laman list kursus yang ada](Picture5.png)<br>
+![•	Laman edit kursus](Picture5.png)<br>
 
 Alert update berhasil
-![•	Laman list kursus yang ada](Picture6.png)<br>
+![Alert update berhasil](Picture6.png)<br>
 
 •	Alert jika kita mencoba delete salah satu kursus
 ![•	Alert jika kita mencoba delete salah satu kursus](Picture7.png)<br>
@@ -56,4 +56,4 @@ Alert update berhasil
 
 
 Last edited 11/08/2024 <br>
-By [Nurul Tri Amelia](#)_
+By [Nurul Tri Amelia](#)
