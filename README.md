@@ -28,8 +28,8 @@ Repository harus di-*clone* ke folder dengan nama **MSIB**
 
 
 ### Tampilan WEB
-![•	Laman login](path/to/Picture1.png)<br>
-![•	Laman list kursus yang ada](path/to/Picture2.png)<br>
+![•	Laman login](Picture1.png)<br>
+![•	Laman list kursus yang ada](Picture2.png)<br>
 
 
 
