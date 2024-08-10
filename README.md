@@ -20,6 +20,7 @@ mudah digunakan.
 
 ### Technology & Tools
 - [x] PHP
+- [x] HTML 
 - [x] Bootstrap 
 
 ### Accounts
