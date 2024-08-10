@@ -41,8 +41,8 @@ Repository harus di-*clone* ke folder dengan nama **MSIB**
 •	Laman edit kursus<br>
 ![•	Laman edit kursus](Picture5.png)<br>
 
-Alert update berhasil
-![Alert update berhasil](Picture6.png)<br>
+• Alert update berhasil
+![• Alert update berhasil](Picture6.png)<br>
 
 •	Alert jika kita mencoba delete salah satu kursus
 ![•	Alert jika kita mencoba delete salah satu kursus](Picture7.png)<br>
