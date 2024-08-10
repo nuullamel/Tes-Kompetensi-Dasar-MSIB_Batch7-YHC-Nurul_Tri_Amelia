@@ -23,13 +23,34 @@ mudah digunakan.
 - [x] Bootstrap 
 
 ### Accounts
-Login menggunakan username **admin** dan password **12345**
+Login menggunakan username **admin** dan password **12345**<br>
 Repository harus di-*clone* ke folder dengan nama **MSIB**
 
 
 ### Tampilan WEB
+•	Laman login<br>
 ![•	Laman login](Picture1.png)<br>
+
+•	Laman list kursus yang ada<br>
 ![•	Laman list kursus yang ada](Picture2.png)<br>
+![•	Laman list kursus yang ada](Picture3.png)<br>
+
+•	Laman menambahkan kursus baru<br>
+![•	Laman list kursus yang ada](Picture4.png)<br>
+
+•	Laman edit kursus<br>
+![•	Laman list kursus yang ada](Picture5.png)<br>
+Alert update berhasil
+![•	Laman list kursus yang ada](Picture6.png)<br>
+
+•	Alert jika kita mencoba delete salah satu kursus
+![•	Alert jika kita mencoba delete salah satu kursus](Picture7.png)<br>
+
+•	Tampilan jika kita klik tombol materials untuk melihat materi dari kursus yang dipilih
+![•	Tampilan jika kita klik tombol materials untuk melihat materi dari kursus yang dipilih](Picture8.png)<br>
+
+•	Laman menambahkan materi
+![•	Laman menambahkan materi](Picture9.png)<br><br>
 
 
 
