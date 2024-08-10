@@ -41,17 +41,32 @@ Repository harus di-*clone* ke folder dengan nama **MSIB**
 •	Laman edit kursus<br>
 ![•	Laman edit kursus](Picture5.png)<br>
 
-• Alert update berhasil
+• Alert update berhasil<br>
 ![• Alert update berhasil](Picture6.png)<br>
 
-•	Alert jika kita mencoba delete salah satu kursus
+•	Alert jika kita mencoba delete salah satu kursus<br>
 ![•	Alert jika kita mencoba delete salah satu kursus](Picture7.png)<br>
 
-•	Tampilan jika kita klik tombol materials untuk melihat materi dari kursus yang dipilih
+•	Tampilan jika kita klik tombol materials untuk melihat materi dari kursus yang dipilih <br>
 ![•	Tampilan jika kita klik tombol materials untuk melihat materi dari kursus yang dipilih](Picture8.png)<br>
 
-•	Laman menambahkan materi
-![•	Laman menambahkan materi](Picture9.png)<br><br>
+•	Laman menambahkan materi<br>
+![•	Laman menambahkan materi](Picture9.png)<br>
+
+•	Laman edit materi<br>
+![•	Laman edit materi](Picture10.png)<br>
+
+•   Alert update berhasil<br>
+![•   Alert update berhasil](Picture11.png)<br>
+
+•	Alert jika kita mencoba delete salah satu materi<br>
+![•	Alert jika kita mencoba delete salah satu materi](Picture12.png)<br>
+
+Laman list materi untuk id kursus 9 yang telah dihapus<br>
+![Laman list materi untuk id kursus 9 yang telah dihapus](Picture13.png)<br>
+
+•	Jika kita klik logout pada nav bar, maka akan kembali ke laman login<br>
+![•	Jika kita klik logout pada nav bar, maka akan kembali ke laman login](Picture14.png)<br>
 
 
 
