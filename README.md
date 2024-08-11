@@ -33,41 +33,41 @@ Repository harus di-*clone* ke folder dengan nama **MSIB**
 ![•	Laman login](Screenshoots/Picture1.png)<br>
 
 •	Laman list kursus yang ada<br>
-![•	Laman list kursus yang ada](Picture2.png)<br>
-![•	Laman list kursus yang ada](Picture3.png)<br>
+![•	Laman list kursus yang ada](Screenshoots/Picture2.png)<br>
+![•	Laman list kursus yang ada](Screenshoots/Picture3.png)<br>
 
 •	Laman menambahkan kursus baru<br>
-![•	Laman list kursus yang ada](Picture4.png)<br>
+![•	Laman list kursus yang ada](Screenshoots/Picture4.png)<br>
 
 •	Laman edit kursus<br>
-![•	Laman edit kursus](Picture5.png)<br>
+![•	Laman edit kursus](Screenshoots/Picture5.png)<br>
 
 • Alert update berhasil<br>
-![• Alert update berhasil](Picture6.png)<br>
+![• Alert update berhasil](Screenshoots/Picture6.png)<br>
 
 •	Alert jika kita mencoba delete salah satu kursus<br>
-![•	Alert jika kita mencoba delete salah satu kursus](Picture7.png)<br>
+![•	Alert jika kita mencoba delete salah satu kursus](Screenshoots/Picture7.png)<br>
 
 •	Tampilan jika kita klik tombol materials untuk melihat materi dari kursus yang dipilih <br>
-![•	Tampilan jika kita klik tombol materials untuk melihat materi dari kursus yang dipilih](Picture8.png)<br>
+![•	Tampilan jika kita klik tombol materials untuk melihat materi dari kursus yang dipilih](Screenshoots/Picture8.png)<br>
 
 •	Laman menambahkan materi<br>
 ![•	Laman menambahkan materi](Screenshoots/Picture9.png)<br>
 
 •	Laman edit materi<br>
-![•	Laman edit materi](Picture10.png)<br>
+![•	Laman edit materi](Screenshoots/Picture10.png)<br>
 
 •   Alert update berhasil<br>
-![•   Alert update berhasil](Picture11.png)<br>
+![•   Alert update berhasil](Screenshoots/Picture11.png)<br>
 
 •	Alert jika kita mencoba delete salah satu materi<br>
-![•	Alert jika kita mencoba delete salah satu materi](Picture12.png)<br>
+![•	Alert jika kita mencoba delete salah satu materi](Screenshoots/Picture12.png)<br>
 
 Laman list materi untuk id kursus 9 yang telah dihapus<br>
-![Laman list materi untuk id kursus 9 yang telah dihapus](Picture13.png)<br>
+![Laman list materi untuk id kursus 9 yang telah dihapus](Screenshoots/Picture13.png)<br>
 
 •	Jika kita klik logout pada nav bar, maka akan kembali ke laman login<br>
-![•	Jika kita klik logout pada nav bar, maka akan kembali ke laman login](Picture14.png)<br>
+![•	Jika kita klik logout pada nav bar, maka akan kembali ke laman login](Screenshoots/Picture14.png)<br>
 
 
 
