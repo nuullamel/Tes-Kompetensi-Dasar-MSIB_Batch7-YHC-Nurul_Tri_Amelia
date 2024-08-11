@@ -30,7 +30,7 @@ Repository harus di-*clone* ke folder dengan nama **MSIB**
 
 ### Tampilan WEB
 •	Laman login<br>
-![•	Laman login](Picture1.png)<br>
+![•	Laman login](Screenshoots/Picture1.png)<br>
 
 •	Laman list kursus yang ada<br>
 ![•	Laman list kursus yang ada](Picture2.png)<br>
