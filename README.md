@@ -52,7 +52,7 @@ Repository harus di-*clone* ke folder dengan nama **MSIB**
 ![•	Tampilan jika kita klik tombol materials untuk melihat materi dari kursus yang dipilih](Picture8.png)<br>
 
 •	Laman menambahkan materi<br>
-![•	Laman menambahkan materi](Picture9.png)<br>
+![•	Laman menambahkan materi](Screenshoots/Picture9.png)<br>
 
 •	Laman edit materi<br>
 ![•	Laman edit materi](Picture10.png)<br>
